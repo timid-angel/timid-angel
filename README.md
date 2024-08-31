@@ -1,8 +1,10 @@
-<div> 
+<!-- <div> 
   <h1 align="center" style="padding: 0 0 0 40px; font-size: 40px;">
     <b>Hi, I'm Nathan</b>
   </h1>
-</div>
+</div> -->
+
+![Header](./assets/main-banner.png)
 
 <div>
   <h2>⚡About me </h2>
