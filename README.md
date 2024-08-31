@@ -37,6 +37,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -45,7 +47,6 @@
         height="45"
       />
     </a>
-    &nbsp;
     &nbsp;
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
@@ -58,10 +59,6 @@
     </a>
     &nbsp;
     &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -70,6 +67,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://typescriptlang.org">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
@@ -78,6 +77,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://golang.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
@@ -97,6 +98,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -105,6 +108,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://mongodb.com">
       <img
         src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
@@ -113,6 +118,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://redis.com">
       <img
         src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
@@ -132,6 +139,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -140,6 +149,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -148,6 +159,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
@@ -171,6 +184,8 @@
           height="45"
         />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://nodejs.org">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
@@ -179,6 +194,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://expressjs.com">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
@@ -187,6 +204,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://nestjs.com">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
@@ -195,6 +214,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://redux.js.org/">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -203,6 +224,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://getbootstrap.com/">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
@@ -211,6 +234,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://mongoosejs.com">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg"
@@ -219,6 +244,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://postgresql.com">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
@@ -227,6 +254,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -235,6 +264,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -243,6 +274,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
@@ -251,6 +284,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://java.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
@@ -259,6 +294,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -267,6 +304,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://www.f5.com/go/product/welcome-to-nginx">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -275,6 +314,8 @@
         height="45"
       />
     </a>
+    &nbsp;
+    &nbsp;
     <a href="https://jupyter.com">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
