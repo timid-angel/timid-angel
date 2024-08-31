@@ -1,7 +1,7 @@
 <div> 
-  <p align="center" style="padding: 0 0 0 40px; font-size: 40px;">
+  <h1 align="center" style="padding: 0 0 0 40px; font-size: 40px;">
     <b>Hi, I'm Nathan</b>
-  </p>
+  </h1>
 </div>
 
 <div>
@@ -26,9 +26,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
 
 <div style="display: flex; flex-direction: column; gap: 17px;">
-  <h3 style="text-align: center;">Tech I work with daily</h3>
+  <h3 style="text-align: center;" align="center">Tech I work with daily</h3>
   <!-- programming languages -->
-  <div style="display: flex; gap: 16px; justify-content: center;">
+  <div align="center" style="display: flex; gap: 16px; justify-content: center;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -79,7 +79,7 @@
     </a>
   </div>
   <!-- frameworks -->
-  <div style="display: flex; gap: 16px; justify-content: center;">
+  <div align="center" style="display: flex; gap: 16px; justify-content: center;">
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
@@ -114,7 +114,7 @@
     </a>
   </div>
   <!-- tools -->
-  <div style="display: flex; gap: 16px; justify-content: center;">
+  <div align="center" style="display: flex; gap: 16px; justify-content: center;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -151,9 +151,9 @@
 </div>
 
 
-<div style="display: flex; flex-direction: column; gap: 15px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 15px;">
   <h3 style="text-align: center;">Tech I am very familiar with</h3>
-  <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+  <div align="center" style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
     <a href="https://handlebarsjs.com/">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg"
