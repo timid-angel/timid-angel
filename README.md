@@ -1,16 +1,32 @@
-<h1 align="center" style="padding: 0 0 0 40px;">
-	<b>Hi, I'm Nathan </b>
-	<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
-</h1>
+<div> 
+  <p align="center" style="padding: 0 0 0 40px; font-size: 40px;">
+    <b>Hi, I'm Nathan</b>
+  </p>
+</div>
 
-## **⚡About me**
+<div>
+  <h2>⚡About me </h2>
+  Hello, my name is Nathan Mesfin. I am a third-year Software Engineering student at Addis Ababa Institute of Technology and a full-stack developer. I enjoy tackling problems and my interests lie in System Design, Data Analysis and Algorithms. Currently looking for opportunities to learn and collaborate on large-scale projects. Want to work on something cool? Don't hesitate to reach out! 
+  
+  <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  - 👨‍💻 Competitive Programmer
+
+  - `If you are going to do it, do it right`
+
+  - 🎵 Music
+
+  - 🌱 Currently learning:
+    - System Design
+    - Advanced Data structures and algorithms
+    - Design patterns with GO
+
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
 
 <div style="display: flex; flex-direction: column; gap: 17px;">
-  <h3 style="text-align: center;">Tech I work with on the daily</h3>
+  <h3 style="text-align: center;">Tech I work with daily</h3>
   <!-- programming languages -->
   <div style="display: flex; gap: 16px; justify-content: center;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -84,6 +100,14 @@
       <img
         src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
         alt="mongodb"
+        width="45"
+        height="45"
+      />
+    </a>
+    <a href="https://redis.com">
+      <img
+        src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
+        alt="redis"
         width="45"
         height="45"
       />
