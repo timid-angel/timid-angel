@@ -8,13 +8,11 @@
 
 <div>
   <h2>⚡About me </h2>
-  Hello, my name is Nathan Mesfin. I am a fourth-year Software Engineering student at Addis Ababa Institute of Technology and a full-stack developer. I enjoy tackling problems and my interests lie in System Design, Data Analysis and Algorithms. Currently looking for opportunities to learn and collaborate on large-scale projects. Want to work on something cool? Don't hesitate to reach out! 
+  Hi, I'm Nathan, a fourth-year Software Engineering student at Addis Ababa Institute of Technology and a full-stack developer. I enjoy tackling problems and my interests lie in System Design, Data Analysis and Algorithms. Currently looking for opportunities to learn and collaborate on projects. Want to work on something cool? Don't hesitate to reach out! 
   
   <br>
 
   - 👨‍💻 Competitive Programmer
-
-  - `If you are going to do it, do it right`
 
   - 🎵 Music
 
