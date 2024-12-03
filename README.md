@@ -4,11 +4,11 @@
   </h1>
 </div> -->
 
-![Header](./assets/main-banner.png)
+<!-- ![Header](./assets/main-banner.png) -->
 
 <div>
   <h2>⚡About me </h2>
-  Hello, my name is Nathan Mesfin. I am a third-year Software Engineering student at Addis Ababa Institute of Technology and a full-stack developer. I enjoy tackling problems and my interests lie in System Design, Data Analysis and Algorithms. Currently looking for opportunities to learn and collaborate on large-scale projects. Want to work on something cool? Don't hesitate to reach out! 
+  Hello, my name is Nathan Mesfin. I am a fourth-year Software Engineering student at Addis Ababa Institute of Technology and a full-stack developer. I enjoy tackling problems and my interests lie in System Design, Data Analysis and Algorithms. Currently looking for opportunities to learn and collaborate on large-scale projects. Want to work on something cool? Don't hesitate to reach out! 
   
   <br>
 
@@ -345,7 +345,9 @@
         alt="languages graph"
       />
   </a>
+  <!--
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=timid-angel&theme=tokyonight&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" />
   </a>
+  -->
 </div>
